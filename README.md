@@ -9,6 +9,9 @@ The solution loads procurement records from a CSV file, validates and cleans the
 
 The project focuses on reusable functions, data validation, exception handling, data transformation, and function orchestration.
 
+<img width="1536" height="1024" alt="data processing pipeline" src="https://github.com/user-attachments/assets/1ebfa446-9c23-4729-afd3-51d7e60d4086" />
+
+
 ## Project Objectives
 
 1. Automate procurement data ingestion from CSV files.
