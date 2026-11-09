@@ -1,0 +1,20 @@
+========================================
+       PROCUREMENT ANALYSIS REPORT
+========================================
+
+DATASET OVERVIEW
+
+Total Purhase Orders: 17
+Unique Suppliers: 3
+
+PROCUREMENT METRICS
+
+Total Purhase Orders: 17
+Total Quantity Ordered: 312
+Total Quantity Delivered: 294
+Total Procurement Cost: $18,765,500
+
+========================================
+       END OF REPORT
+========================================
+
