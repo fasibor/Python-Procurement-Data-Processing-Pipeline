@@ -172,8 +172,3 @@ This project demonstrates how Python can be used to move beyond basic data manip
 It combines data ingestion, validation, cleaning, transformation, and reporting into a single orchestrated pipeline.
 
 The broader objective is to develop practical Python skills for real-world data analytics and automation challenges.
-```
-
-**Repository title:** Python Procurement Data Processing Pipeline
-
-**Repository description:** A Python-based procurement data processing pipeline that automates CSV ingestion, purchase order validation, data cleaning, cost transformation, invalid record identification, and procurement report generation.
